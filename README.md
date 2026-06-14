@@ -33,7 +33,7 @@ python 5ense.py
 ```
 A window titled "5ENSE" will open, displaying your mirrored webcam feed with the detection overlay. 📹
 
-Press ESC to close the window and terminate the program. 🛑
+Press ESC to close the window and terminate the program.
 
 ## ⚙️ Configuration
 You can easily adjust the sensitivity and behavior of the system by modifying the constants at the top of the script:
